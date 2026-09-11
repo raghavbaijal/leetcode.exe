@@ -17,4 +17,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-find-users-with-valid-e-mails](https://github.com/raghavbaijal/leetcode.exe/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/raghavbaijal/leetcode.exe/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/raghavbaijal/leetcode.exe/tree/master/1667-fix-names-in-a-table) |
+## Array
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/raghavbaijal/leetcode.exe/tree/master/3483-unique-3-digit-even-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/raghavbaijal/leetcode.exe/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/raghavbaijal/leetcode.exe/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/raghavbaijal/leetcode.exe/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
