@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/raghavbaijal/leetcode.exe/tree/master/1189-maximum-number-of-balloons) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raghavbaijal/leetcode.exe/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/raghavbaijal/leetcode.exe/tree/master/1189-maximum-number-of-balloons) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/raghavbaijal/leetcode.exe/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/raghavbaijal/leetcode.exe/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/raghavbaijal/leetcode.exe/tree/master/3498-reverse-degree-of-a-string) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/raghavbaijal/leetcode.exe/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
