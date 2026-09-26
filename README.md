@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/raghavbaijal/leetcode.exe/tree/master/2574-left-and-right-sum-differences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raghavbaijal/leetcode.exe/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/raghavbaijal/leetcode.exe/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/raghavbaijal/leetcode.exe/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2574-left-and-right-sum-differences](https://github.com/raghavbaijal/leetcode.exe/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
 | ------- |
