@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raghavbaijal/leetcode.exe/tree/master/0022-generate-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/raghavbaijal/leetcode.exe/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghavbaijal/leetcode.exe/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/raghavbaijal/leetcode.exe/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raghavbaijal/leetcode.exe/tree/master/0022-generate-parentheses) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/raghavbaijal/leetcode.exe/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/raghavbaijal/leetcode.exe/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
@@ -95,5 +97,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raghavbaijal/leetcode.exe/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghavbaijal/leetcode.exe/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/raghavbaijal/leetcode.exe/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
