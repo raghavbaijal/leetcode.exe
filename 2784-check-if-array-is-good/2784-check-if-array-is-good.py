@@ -1,14 +1,18 @@
 class Solution:
-    def isGood(self, nums: list[int]) -> bool:
-        n = len(nums) - 1
+    def isGood(self, nums):
+        n = max(nums)
 
-        count = {}
+        if len(nums) != n + 1:
+            return False
 
-        for num in nums:
-            count[num] = count.get(num, 0) + 1
+        count = [0] * (n + 1)
 
-        for i in range(1, n):
-            if count.get(i, 0) != 1:
+        for x in nums:
+            count[x] += 1
+
+        for x in range(1, n):
+            if count[x] != 1:
                 return False
 
-        return count.get(n, 0) == 2
+        return count[n] == 2
+        
