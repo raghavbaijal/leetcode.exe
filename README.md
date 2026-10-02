@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/raghavbaijal/leetcode.exe/tree/master/2574-left-and-right-sum-differences) |
+| [2784-check-if-array-is-good](https://github.com/raghavbaijal/leetcode.exe/tree/master/2784-check-if-array-is-good) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raghavbaijal/leetcode.exe/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/raghavbaijal/leetcode.exe/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3838-weighted-word-mapping](https://github.com/raghavbaijal/leetcode.exe/tree/master/3838-weighted-word-mapping) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/raghavbaijal/leetcode.exe/tree/master/1189-maximum-number-of-balloons) |
+| [2784-check-if-array-is-good](https://github.com/raghavbaijal/leetcode.exe/tree/master/2784-check-if-array-is-good) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raghavbaijal/leetcode.exe/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/raghavbaijal/leetcode.exe/tree/master/0022-generate-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [2784-check-if-array-is-good](https://github.com/raghavbaijal/leetcode.exe/tree/master/2784-check-if-array-is-good) |
 <!---LeetCode Topics End-->
